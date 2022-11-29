@@ -1,0 +1,54 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+.abr{
+    color:rgb(212, 21, 59);
+}
+.boldRed{
+    font-weight: bold;
+    color: crimson;
+}
+
+.italicBlue{
+    font-style: italic;
+    color: blue;
+}
+
+h2, h3{
+    color: green;
+}
+.block1{
+    color: rgb(48, 46, 46);
+    width: 500px;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.span{
+    color: rgb(235, 54, 54);
+    font-weight: bold;
+} 
+
+.block2{
+    color: rgb(48, 46, 46);
+    width: 500px;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.italic{
+    font-style: italic;
+    color:rgb(128, 120, 178);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cursive{
+    color: red;
+    font-weight: bold;
+}
+
+p{
+    text-align: justify;
+}

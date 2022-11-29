@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin: 0px 15px 15px;
+}
+
+.block1{
+    width: 35%;
+    margin: 15px;
+    padding: 5px;
+    box-shadow: 2px 2px 20px 5px rgb(80, 77, 77);
+    text-align: justify;
+}
+
+body{
+    background-image: url('https://flomaster.club/uploads/posts/2022-01/1641882066_18-flomaster-club-p-tsvetnie-uzori-dlya-vorda-krasivie-risunki-18.jpg');
+    background-size: 300px;
+    background-repeat: repeat-y; 
+    background-position: top right;
+}
